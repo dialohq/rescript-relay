@@ -24,7 +24,7 @@
     "@opam/yojson": "1.7.0",
     "@reason-native/console": "*",
     "@reason-native/pastel": "*",
-    "ocaml": "~4.10.0"
+    "ocaml": "~4.14.1000"
   },
   "devDependencies": {
     "@opam/merlin": "*",
